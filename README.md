@@ -1,6 +1,6 @@
 # Salaryfy.io - Financial Awareness & Empowerment Platform
 
-A modern, responsive web application built with Next.js that helps users understand their salary breakdown, taxation, and improve their financial literacy.
+Salaryfy.io is a modern, responsive web application built with Next.js that helps users understand their salary breakdown, taxation, and financial literacy through interactive tools and resources.
 
 ## 🌟 Features
 
@@ -43,7 +43,7 @@ A modern, responsive web application built with Next.js that helps users underst
 
 ### Prerequisites
 - Node.js (v18 or higher)
-- npm, yarn, pnpm, or bun
+- npm
 
 ### Installation
 
@@ -56,23 +56,11 @@ A modern, responsive web application built with Next.js that helps users underst
 2. **Install dependencies**
    ```bash
    npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   # or
-   bun install
    ```
 
 3. **Start the development server**
    ```bash
    npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
-   # or
-   bun dev
    ```
 
 4. **Open in browser**
@@ -149,16 +137,6 @@ salaryfy/
 - **Rounded Corners**: Modern, friendly appearance
 - **Hover States**: Interactive feedback on all clickable elements
 
-## 🔧 Development Scripts
-
-```bash
-# Development
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run start        # Start production server
-npm run lint         # Run ESLint
-```
-
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
@@ -171,7 +149,6 @@ The project can be deployed to any platform that supports Next.js:
 - Netlify
 - AWS Amplify
 - Railway
-- DigitalOcean App Platform
 
 ## 📱 Responsive Design
 
@@ -182,26 +159,6 @@ The project can be deployed to any platform that supports Next.js:
   - lg: 1024px (desktops)
   - xl: 1280px (large desktops)
 
-## ♿ Accessibility
-
-- **WCAG 2.1 AA Compliant**: Meets accessibility standards
-- **Keyboard Navigation**: Full keyboard support
-- **Screen Reader Friendly**: Semantic HTML and ARIA labels
-- **Color Contrast**: Meets minimum contrast requirements
-- **Focus Management**: Clear focus indicators
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Icons by [Lucide](https://lucide.dev/)
@@ -209,38 +166,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI inspiration from modern financial platforms
 - Built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/)
 
-## 📞 Support
-
-For support, email contact@salaryfy.io or create an issue in this repository.
-
-## 🔗 Links
-
-- **Live Demo**: [Deployment Link Placeholder]
-- **Documentation**: [Documentation Link Placeholder]
-- **API Reference**: [API Reference Link Placeholder]
-
----
 
 **Note**: This project is designed for educational and informational purposes. For personalized financial advice, please consult with qualified financial advisors.
 
 ## 📸 Screenshots
 
 ### Home Page
-<!-- ![Home Page](./screenshots/home.png) -->
+![Home Page](https://i.ibb.co/C3xym091/fin1.png)
 
 ### Salary Calculator
-<!-- ![Salary Calculator](./screenshots/calculator.png) -->
+![Salary Calculator](https://i.ibb.co/R4T58Z5W/fin2.png)
 
 ### Tax Information
-<!-- ![Tax Information](./screenshots/tax-info.png) -->
+![Tax Information](https://i.ibb.co/bjSrPL44/fin3.png)
 
 ### Financial Education
-<!-- ![Financial Education](./screenshots/education.png) -->
+![Financial Education](https://i.ibb.co/gbsZdT2c/fin4.png)
 
 ### Contact Page
-<!-- ![Contact Page](./screenshots/contact.png) -->
-
-### Dark Mode
-<!-- ![Dark Mode](./screenshots/dark-mode.png) -->
-
-*Screenshots to be added after deployment*
+![Contact Page](https://i.ibb.co/6cmCxvcG/fin5.png)
