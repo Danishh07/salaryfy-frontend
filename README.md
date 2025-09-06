@@ -2,6 +2,9 @@
 
 Salaryfy.io is a modern, responsive web application built with Next.js that helps users understand their salary breakdown, taxation, and financial literacy through interactive tools and resources.
 
+## 🔗 Live Demo
+👉 [Salaryfy.io Demo](https://mysalaryfy.vercel.app/)
+
 ## 🌟 Features
 
 ### Core Functionality
